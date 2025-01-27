@@ -54,7 +54,7 @@ This is a personal project. However, feel free to fork the repository and submit
 
 For any inquiries, please reach out via the contact form on the website or through the following channels:
 - **Email**: [email@byzer0.de](mailto:email@byzer0.de)
-- **Discord**: [SkyNation.eu Discord](https://discord.skynation.eu)
+- **Discord**: [SkyNation.eu Discord](https://discord.byzer0.de)
 - **GitHub**: [Zer0NC](https://github.com/Zer0NC)
 
 ---
