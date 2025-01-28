@@ -19,6 +19,8 @@ This repository contains the source code for the ByZer0.de portfolio website. Th
 
 3. Customize the website by modifying the `HTML`, `CSS`, or `JavaScript` files to suit your personal needs.
 
+4. Make sure to add your Discord Webhook in the script.js file at line 139.
+
 ## Features
 
 - **Responsive Design**: The website is designed to be mobile-friendly and works seamlessly across various screen sizes.
