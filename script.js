@@ -136,7 +136,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const message = document.getElementById('message').value;
 
             // Replace with your actual Discord webhook URL
-            const webhookUrl = '';
+            const webhookUrl = 'YOURWEBHOOK';
 
             const embedData = {
                 embeds: [{
